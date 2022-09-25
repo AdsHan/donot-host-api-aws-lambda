@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{288F1720-1013-4F93-AD3A-D46B4EA719F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HostLambda.API", "src\HostLambda.API\HostLambda.API.csproj", "{AE433DE6-668E-4303-8652-3888AA94998D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE433DE6-668E-4303-8652-3888AA94998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE433DE6-668E-4303-8652-3888AA94998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE433DE6-668E-4303-8652-3888AA94998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE433DE6-668E-4303-8652-3888AA94998D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE433DE6-668E-4303-8652-3888AA94998D} = {288F1720-1013-4F93-AD3A-D46B4EA719F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DE632B-49B5-4A46-A26A-CA86ED9B4E3E}
+	EndGlobalSection
+EndGlobal

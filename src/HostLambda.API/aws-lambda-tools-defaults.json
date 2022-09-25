@@ -1,0 +1,16 @@
+{
+  "profile": "default",
+  "region": "us-east-1",
+  "configuration": "Release",
+  "function-runtime": "dotnet6",
+  "function-memory-size": 256,
+  "function-timeout": 30,
+  "function-handler": "HostLambda.API",
+  "framework": "net6.0",
+  "function-name": "HostLambda",
+  "function-description": "Test .NET 6 Web API Hosting with AWS Lambda",
+  "package-type": "Zip",
+  "function-architecture": "x86_64",
+  "environment-variables": "ASPNETCORE_ENVIRONMENT=Development",
+  "function-url-enable": true
+}
