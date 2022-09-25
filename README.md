@@ -1,4 +1,4 @@
-# donot-host-api-aws-lambda
+# dotnet-host-api-aws-lambda
 Demonstração de como hospedar uma API utilizando a estratégia Serverless com AWS Lambda. Essa abordagem permite que a API seja criada como você faria normalmente usando Controllers e demais estruturas. 
 
 # Como executar:
