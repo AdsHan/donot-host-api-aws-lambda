@@ -8,4 +8,4 @@ Demonstração de como hospedar uma API utilizando a estratégia Serverless com 
 - Publicar Lambda (dotnet lambda deploy-function)
 
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
